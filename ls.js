@@ -151,7 +151,6 @@
     window.disqus_blogger_homepage_url = "https://www.zakerly.tk/", window.disqus_blogger_canonical_homepage_url = "https://www.zakerly.tk/", 
     window.console.log = window.console.info = void 0;
     var p = null, l, k, m, A, f, r, H, I, J, t;
-    "https://www.zakerly.tk/" != window.location.host && -1 == window.location.host.indexOf("demobloggerku.blogspot") && -1 == window.location.host.indexOf("1601534225076564813_a6d5510549403daf1f0f26b2e52c6f2977055029") && (window.location.href = "https://www.zakerly.tk/"), 
     NodeList.prototype.forEach = function(a) {
         Array.prototype.forEach.call(this, function(b) {
             a(b);
