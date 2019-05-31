@@ -68,7 +68,7 @@
             b.setAttribute("style", 'height: 52px; width: 54px; margin: 0px auto; overflow: hidden; position: relative; background: url("https://c.disquscdn.com/next/embed/assets/img/loader-bg.173909e4737a7481df14d5492b5eeb48.png") no-repeat; box-sizing: border-box;'), 
             b.innerHTML = '<div style="box-sizing: border-box; width: 26px; height: 26px; position: absolute; top: 13px; left: 15px; border-width: 3px; border-style: solid; border-color: rgba(51, 54, 58, 0.4) transparent; border-radius: 13px; transform-origin: 50% 50% 0px; transition: transform 700s linear;"></div>';
             var c = b.firstChild;
-            window.disqus_blogger_current_url = "http://www.bloggerku.com" + window.location.pathname, 
+            window.disqus_blogger_current_url = "https://www.zakerly.tk/" + window.location.pathname, 
             p = function() {
                 var b, d;
                 window.scrollY + window.innerHeight >= a.offsetTop && (c.style.transform = "rotate(360000deg)", 
@@ -147,11 +147,11 @@
             }
         }, 300);
     }
-    window.disqus_shortname = "bloggerku", window.disqus_blogger_current_url = "http://www.bloggerku.com" + window.location.pathname, 
-    window.disqus_blogger_homepage_url = "http://www.bloggerku.com/", window.disqus_blogger_canonical_homepage_url = "http://www.bloggerku.com/", 
+    window.disqus_shortname = "bloggerku", window.disqus_blogger_current_url = "https://www.zakerly.tk/" + window.location.pathname, 
+    window.disqus_blogger_homepage_url = "https://www.zakerly.tk/", window.disqus_blogger_canonical_homepage_url = "https://www.zakerly.tk/", 
     window.console.log = window.console.info = void 0;
     var p = null, l, k, m, A, f, r, H, I, J, t;
-    "www.bloggerku.com" != window.location.host && -1 == window.location.host.indexOf("demobloggerku.blogspot") && -1 == window.location.host.indexOf("1601534225076564813_a6d5510549403daf1f0f26b2e52c6f2977055029") && (window.location.href = "https://www.bloggerku.com/"), 
+    "https://www.zakerly.tk/" != window.location.host && -1 == window.location.host.indexOf("demobloggerku.blogspot") && -1 == window.location.host.indexOf("1601534225076564813_a6d5510549403daf1f0f26b2e52c6f2977055029") && (window.location.href = "https://www.zakerly.tk/"), 
     NodeList.prototype.forEach = function(a) {
         Array.prototype.forEach.call(this, function(b) {
             a(b);
